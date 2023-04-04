@@ -7,7 +7,6 @@ We are working for a consumer finance company which specialises in lending loans
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -17,26 +16,19 @@ We are working for a consumer finance company which specialises in lending loans
 . The data set given consists of applicants dmeographics along with a data trending on current, charged off and fully paid loans
 
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 ## Technologies Used
 . Python 3.5
 . Anaconda 3
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
+- 53% of all loans were sanctioned in 2011 had almost 59% of all amount sanctioned from 2007 - 2011, indicating a rise in loan requirements.
+- Small Businesses are more likely to default on loans.
+- Strong correlationship between grades and loan_status - Higher the grade, more likely they're to pay back.
+- 31% of loans sanctioned to unverified, which is an operational gap.
+- Higher DTI levels have been sanctioned loans progressively through the years, which is a alarming.
+- Rent ownership, even at low DTI posesses a default risk.
+- Longer term loans are sanctioned even at high DTI resulting in higher defaults.
 
 
 ## Contact
@@ -44,10 +36,3 @@ Created by
 
 . Abhinav Sinha
 . Shivam Sachdeva
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
